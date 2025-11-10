@@ -1,0 +1,3 @@
+Hello Java I/O
+This is a simple test file.
+Buffered streams improve performance.
