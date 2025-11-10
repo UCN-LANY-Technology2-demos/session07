@@ -1,0 +1,1 @@
+Dette er en test af try-with-resources.
