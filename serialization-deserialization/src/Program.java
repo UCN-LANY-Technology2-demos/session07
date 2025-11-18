@@ -3,9 +3,9 @@ import java.io.*;
 public class Program {
 
     public static void main(String[] args) {
-        Person person = new Person("Alice");
+        //Person person = new Person("Alice");
         
-        SerializeToFile(person);
+        //SerializeToFile(person);
         
         DeserializeFromFile("person.ser");
     }
